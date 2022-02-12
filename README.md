@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @web3xevangelist
-- 👀 I’m interested in web3,api security,api3
+- 👀 I’m interested in web3,api security,open banking
 - 🌱 I’m currently learning solidity programming
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 How to reach me -> web3xevangelist <web3xevangelist@gmail.com>
